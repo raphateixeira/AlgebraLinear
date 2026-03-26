@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://raphateixeira.github.io/AlgebraLinear/Notas/AL01SistemasEquacoes.html</loc>
-    <lastmod>2026-03-26T00:36:28.686Z</lastmod>
+    <loc>https://raphateixeira.github.io/AlgebraLinear/Notas/AL02MatrizesOperacoes.html</loc>
+    <lastmod>2026-03-26T00:50:43.117Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphateixeira.github.io/AlgebraLinear/Notas/AL00PlanoEnsinoAlgebraLinear.html</loc>
+    <lastmod>2026-03-26T00:50:43.116Z</lastmod>
   </url>
   <url>
     <loc>https://raphateixeira.github.io/AlgebraLinear/index.html</loc>
-    <lastmod>2026-03-26T00:36:28.686Z</lastmod>
+    <lastmod>2026-03-26T00:50:43.117Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphateixeira.github.io/AlgebraLinear/Notas/AL01SistemasEquacoes.html</loc>
+    <lastmod>2026-03-26T00:50:43.117Z</lastmod>
   </url>
 </urlset>

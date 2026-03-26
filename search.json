@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "Notas/AL02MatrizesOperacoes.html#equações-lineares",
+    "href": "Notas/AL02MatrizesOperacoes.html#equações-lineares",
+    "title": "Álgebra Linear",
+    "section": "Equações Lineares",
+    "text": "Equações Lineares\nExemplo de um sistema de equações lineares:\n\\[\n\\begin{cases}\n2x + 3y = 5 \\\\\n4x - y = 11\n\\end{cases}\n\\]"
+  },
+  {
+    "objectID": "Notas/AL02MatrizesOperacoes.html#equações-lineares-1",
+    "href": "Notas/AL02MatrizesOperacoes.html#equações-lineares-1",
+    "title": "Álgebra Linear",
+    "section": "Equações Lineares",
+    "text": "Equações Lineares"
+  },
+  {
+    "objectID": "Notas/AL00PlanoEnsinoAlgebraLinear.html#ementa-e-objetivos-do-curso",
+    "href": "Notas/AL00PlanoEnsinoAlgebraLinear.html#ementa-e-objetivos-do-curso",
+    "title": "Álgebra Linear",
+    "section": "Ementa e Objetivos do Curso",
+    "text": "Ementa e Objetivos do Curso\n\nSistemas de Equações Lineares: Métodos de resolução e interpretação geométrica.\nEspaços Vetoriais: Estruturas, subespaços, base e dimensão.\nTransformações Lineares: Núcleo, imagem e representação matricial.\nAutovalores e Autovetores: Diagonalização de operadores e aplicações.\nEspaços com Produto Interno: Ortogonalidade e o processo de Gram-Schmidt.\n\n\n\n\n\n\n\nObjetivo Principal\n\n\nDesenvolver o raciocínio abstrato e aplicar ferramentas algébricas na resolução de problemas práticos de engenharia e computação."
+  },
+  {
+    "objectID": "Notas/AL00PlanoEnsinoAlgebraLinear.html#bibliografia-recomendada",
+    "href": "Notas/AL00PlanoEnsinoAlgebraLinear.html#bibliografia-recomendada",
+    "title": "Álgebra Linear",
+    "section": "Bibliografia Recomendada",
+    "text": "Bibliografia Recomendada\n\n\nBásica\n\nAnton, H. & Rorres, C. Álgebra Linear com Aplicações. 10ª ed. Bookman.\nLay, D. C. Álgebra Linear e suas Aplicações. 4ª ed. Pearson.\nStrang, G. Introdução à Álgebra Linear. 4ª ed. LTC.\n\n\nComplementar\n\nBoldrini, J. L. et al. Álgebra Linear. 3ª ed. Harper & Row do Brasil.\nLipschutz, S. & Lipson, M. Álgebra Linear. Coleção Schaum. Bookman."
+  },
+  {
+    "objectID": "Notas/AL00PlanoEnsinoAlgebraLinear.html#critérios-de-avaliação-e-cronograma",
+    "href": "Notas/AL00PlanoEnsinoAlgebraLinear.html#critérios-de-avaliação-e-cronograma",
+    "title": "Álgebra Linear",
+    "section": "Critérios de Avaliação e Cronograma",
+    "text": "Critérios de Avaliação e Cronograma\n\n\nComposição da Nota\n\nAvaliação I: Sistemas Lineares e Espaços Vetoriais.\nAvaliação II: Transformações, Autovalores e Autovetores.\nTrabalho Prático: Implementação computacional (Python/Julia) ou aplicação em Engenharia.\n\n\n\n\nCronograma Previsto\n\nSemanas 1-4: Matrizes e Sistemas.\nSemanas 5-8: Espaços Vetoriais.\nSemanas 9-12: Transformações Lineares.\nSemanas 13-15: Autovalores e Produto Interno.\n\n\n\nFrequência mínima: 75%\nUso de ferramentas computacionais será incentivado."
+  },
+  {
+    "objectID": "Notas/AL00PlanoEnsinoAlgebraLinear.html#section",
+    "href": "Notas/AL00PlanoEnsinoAlgebraLinear.html#section",
+    "title": "Álgebra Linear",
+    "section": "",
+    "text": "Prof. Dr. Raphael Teixeira\n\nObrigado!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Álgebra Linear",
+    "section": "",
+    "text": "Notas de Aula:\n\nAula 00: Plano de Ensino\nAula 01: Sistemas de equações lineares\nAula 02: Matrizes e operações"
+  },
+  {
     "objectID": "Notas/AL01SistemasEquacoes.html#equações-lineares",
     "href": "Notas/AL01SistemasEquacoes.html#equações-lineares",
     "title": "Álgebra Linear",
@@ -12,12 +61,5 @@
     "title": "Álgebra Linear",
     "section": "Equações Lineares",
     "text": "Equações Lineares"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Álgebra Linear",
-    "section": "",
-    "text": "Notas de Aula:\n\nAula 01: Sistemas de equações lineares"
   }
 ]
