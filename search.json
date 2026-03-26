@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Notas/AL01SistemasEquacoes.html#introdução",
+    "href": "Notas/AL01SistemasEquacoes.html#introdução",
+    "title": "Aula 01: Sistemas de Equações Lineares",
+    "section": "Introdução",
+    "text": "Introdução\n… (restante do seu conteúdo)"
+  },
+  {
+    "objectID": "Notas/AL01SistemasEquacoes.html#introdução-1",
+    "href": "Notas/AL01SistemasEquacoes.html#introdução-1",
+    "title": "Aula 01: Sistemas de Equações Lineares",
+    "section": "Introdução",
+    "text": "Introdução\nUm Sistema de Equações Lineares é u conjunto de equações da forma:\n\\[\n\\begin{cases}\na_{11}x_1 + a_{12}x_2 + \\cdots + a_{1n}x_n = b_1 \\\\\na_{21}x_1 + a_{22}x_2 + \\cdots + a_{2n}x_n = b_2 \\\\\n\\vdots \\\\\na_{m1}x_1 + a_{m2}x_2 + \\cdots + a_{mn}x_n = b_m\n\\end{cases}\n\\]\n\nNa engenharia elétrica, esses sistemas surgem na análise de circuitos (Leis de Kirchhoff), processamento de sinais e sistemas de controle."
+  },
+  {
+    "objectID": "Notas/AL01SistemasEquacoes.html#interpretação-geométrica-r2",
+    "href": "Notas/AL01SistemasEquacoes.html#interpretação-geométrica-r2",
+    "title": "Aula 01: Sistemas de Equações Lineares",
+    "section": "Interpretação Geométrica (\\(R^2\\))",
+    "text": "Interpretação Geométrica (\\(R^2\\))\nNo plano bidimensional, cada equação linear representa uma reta. A solução do sistema é a interseção dessas retas.\n\nSPD: Sistema Possível e Determinado (Retas concorrentes).\nSPI: Sistema Possível e Indeterminado (Retas coincidentes).\nSI: Sistema Impossível (Retas paralelas)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Álgebra Linear",
+    "section": "",
+    "text": "Notas de Aula:\n\nAula 01: Sistemas de equações lineares"
+  }
+]
